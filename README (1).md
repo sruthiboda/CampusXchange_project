@@ -1,6 +1,5 @@
-# NITian ReStore
-
-NITian ReStore is the ultimate platform born out of a college hackathon project, transforming student sales within campus boundaries. It's where students can list their items for sale, negotiate prices through bids, and enjoy a seamless selling experience.
+# CampusXchange 
+CampusXchange is the ultimate platform born out of a college hackathon project, transforming student sales within campus boundaries. It's where students can list their items for sale, negotiate prices through bids, and enjoy a seamless selling experience.
 
 ## Features
 
@@ -43,6 +42,3 @@ Check out the Live Demo [Here](https://nitian-re-store.onrender.com/).
 
 We welcome contributions! Feel free to create a new branch and submit a pull request for any enhancements or fixes.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
