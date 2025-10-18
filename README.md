@@ -18,11 +18,8 @@ CampusXchange is the ultimate platform born out of a college hackathon project, 
 - **JWT:** Ensuring secure user authentication.  
 - **Redux:** Managing the application's state. 
 
-## Sneak Peek
 
-## Demo
 
-Check out the Live Demo [Here](https://nitian-re-store.onrender.com/).
 ## Installation
 
 1. Clone the repository.
